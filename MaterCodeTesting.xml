@@ -13,7 +13,7 @@ Name:     Awesome Inc.
 Designer: Tina Chen
 URL:      tinachen.org
 ----------------------------------------------- */
-/*I want to make the master testing for blogger big problem*/
+
 /* Variable definitions
    ====================
    <Variable name="keycolor" description="Main Color" type="color" default="#ffffff" value="#ffffff"/>
